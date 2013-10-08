@@ -1,3 +1,6 @@
 [submodule "plugins/diskuse_summary"]
 	path = plugins/diskuse_summary
 	url = git@github.com:graphdat/graphdat-plugin-diskuse_summary.git
+[submodule "plugins/redis"]
+	path = plugins/redis
+	url = git@github.com:graphdat/plugin-redis.git
